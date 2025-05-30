@@ -27,3 +27,6 @@ I proudly represented the United Arab Emirates at global tech competitions like 
 My dream is to become an AI engineer who builds technologies that are emotionally intelligent and socially impactful. I plan to pursue my studies at **MBZUAI**, where I hope to turn ideas into innovations that shape a smarter, more compassionate world.
 
 > *“The best way to predict the future is to invent it.” – Alan Kay*
+
+# Thank you for visiting my portfolio. 🌟
+
